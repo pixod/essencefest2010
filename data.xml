@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mp3player>
+<settings 
+	
+	onFirstStart="play"
+	
+	toggleBg="1" bgWidth="31" bgHeight="31" bgRadius="5" bgColor1="0xfafafa" bgColor2="0xc4c4c4" bgColor3="0xfafafa" bgAlpha="90"
+	toggleBgStroke="1" bgStrokeColor="0xCE181F"
+	
+	toggleBgOver="1" bgOverWidth="31" bgOverHeight="31" bgOverRadius="5" bgOverColor1="0xfafafa" bgOverColor2="0xc4c4c4" bgOverColor3="0xfafafa" bgOverAlpha="100" 
+	toggleBgOverStroke="1" bgOverStrokeColor="0x618299"
+	
+	playGraphicWidth="21" playGraphicHeight="19" playGraphicAlpha="100" 
+	muteGraphicWidth="15" muteGraphicHeight="19" muteGraphicAlpha="100" 
+	
+	mouseOverGraphicColor1="0xCE181F" mouseOverGraphicColor2="0xCE181F" mouseOverGraphicColor3="0xCE181F"
+	mouseOutGraphicColor1="0xCE181F" mouseOutGraphicColor2="0xCE181F" mouseOutGraphicColor3="0xCE181F"
+
+	playFontName="my_font" playFontColor="0xffffff" playFontSize="9" playFontNameIE=" "
+	muteFontName="my_font" muteFontColor="0xffffff" muteFontSize="9" muteFontNameIE=" "
+	
+	textY="-16"
+	
+	correctTextXPos="2"
+	
+	animationTime=".3" animationType="easeinquad"
+	
+	appearAnimationTime="1" appearAnimationType="easeoutbounce"
+	
+	playingVolume="70"
+	
+	toggleShadow="1"
+	
+	playerX="20" playerY="15"
+
+	toggleNextButton="1" nextButtonNormalColor1="0xCE181F" nextButtonNormalColor2="0xCE181F" nextButtonNormalColor3="0xCE181F" nextButtonOverColor1="0xCE181F" nextButtonOverColor2="0xCE181F" nextButtonOverColor3="0xCE181F" nextButtonAlpha="100" toggleNextButtonShadow="1" nextButtonX="39" nextButtonY="8"
+	
+	togglePrevButton="1" prevButtonNormalColor1="0xCE181F" prevButtonNormalColor2="0xCE181F" prevButtonNormalColor3="0xCE181F" prevButtonOverColor1="0xCE181F" prevButtonOverColor2="0xCE181F" prevButtonOverColor3="0xCE181F" prevButtonAlpha="100" togglePrevButtonShadow="1" prevButtonX="-15" prevButtonY="8"
+	
+	nextFontName="my_font" nextFontColor="0xffffff" nextFontSize="10" nextFontNameIE=" " nextTextX="2" nextTextY="-16"
+	prevFontName="my_font" prevFontColor="0xffffff" prevFontSize="10" prevFontNameIE=" " prevTextX="-9" prevTextY="-16"
+	
+	toggleScrubber="0" scrubberWidth="33" scrubberHeight="3" scrubberNormalBgColor="0x797979" scrubberLoadingBgColor="0x9b9b9b" scrubberProgressBgColor="0xd6d6d6" scrubberX="-1" scrubberY="35"
+	
+	 >
+	
+</settings>
+	<sound audio="audio/aliciakeys-trysleeping.mp3" mmTitle="Alicia Keys - Try Sleeping With A Broken Heart"></sound>
+	
+	<sound audio="audio/treysongz-sayaah.mp3 " mmTitle="Trey Songs - Say Aah"></sound>
+	
+	<sound audio="audio/a.mp3" mmTitle="Track Number Three"></sound>
+		
+	<sound audio="audio/d.mp3" mmTitle="Track Number Four"></sound>
+	
+	<sound audio="audio/e.mp3" mmTitle="Track Number Five"></sound>
+</mp3player>
