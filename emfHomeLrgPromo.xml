@@ -1,0 +1,8 @@
+<gallery>
+   <album title="My videos" description="My vacation videos" lgpath="emfHomeLrgPromo/" tnpath="images/">
+      <img src="aliciaMaryPromo.jpg" link = "artists.php" target="_self"/>
+      <img src="aliciaMaryPromo.jpg" link = "artists.php" target="_self"/>
+      <img src="emfHomeLrgPromoSeminar.jpg" link = "seminars.php" target="_self"/>
+      <img src="emfHomeLrgPromo1.jpg" link = "artists.php" target="_self"/>      
+      </album>
+</gallery>
