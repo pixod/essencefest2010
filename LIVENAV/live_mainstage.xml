@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+		
+<horizontal_news_ticker_01>
+	<settings
+
+		posX="0"
+		
+		posY="4"
+		
+		distance="6"
+		
+		buttonBackgroundCornerRadius="6"
+		
+		totalWidth="590"
+		
+		direction="right-left"
+		
+		scrollingInterval="20"
+		
+		scrollingSpeed="1"
+		
+		animationTime=".2"
+	></settings>
+
+
+
+	<content>
+		<news title="Monica: 7:00pm" url="http://www.google.com/" target="_blank"></news>
+		<news title="Raphael Saadiq: 8:05pm" url="http://www.google.com/" target="_blank"></news>
+		<news title="Charlie Wilson: 9:20pm" url="http://www.google.com/" target="_blank"></news>
+		<news title="Janet Jackson: 11:20pm" url="http://www.google.com/" target="_blank"></news>
+
+		<news title="Monica: 7:00pm" url="http://www.google.com/" target="_blank"></news>
+		<news title="Raphael Saadiq: 8:05pm" url="http://www.google.com/" target="_blank"></news>
+		<news title="Charlie Wilson: 9:20pm" url="http://www.google.com/" target="_blank"></news>
+		<news title="Janet Jackson: 11:20pm" url="http://www.google.com/" target="_blank"></news>
+
+
+		<news title="Monica: 7:00pm" url="http://www.google.com/" target="_blank"></news>
+		<news title="Raphael Saadiq: 8:05pm" url="http://www.google.com/" target="_blank"></news>
+		<news title="Charlie Wilson: 9:20pm" url="http://www.google.com/" target="_blank"></news>
+		<news title="Janet Jackson: 11:20pm" url="http://www.google.com/" target="_blank"></news>
+
+	</content>
+	
+</horizontal_news_ticker_01>
+
