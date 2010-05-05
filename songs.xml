@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<songs>
+	<song url="song/alicia.mp3" songID="aliciakeys" artist="ALICIA KEYS" track="Try Sleeping" label="J Records"/>
+	
+	<song url="song/llcoolj.mp3" songID="llcoolj" artist="LL Cool J" track="Baby" label="Def Jam"/>
+	
+	<song url="song/charlie.mp3" songID="charliewilson" artist="Charlie Wilson" track="Last Name" label="Jive Records"/>
+	
+	<song url="song/gladys.mp3" songID="gladysknight" artist="Gladys Knight" track="Midnight Train" label="MoTown Records"/>
+	
+	<song url="song/jill.mp3" songID="jillscott" artist="Jill Scott" track="The Way" label="Hidden Beach"/>
+	
+	<song url="song/keri.mp3" songID="kerihilson" artist="Keri Hilson" track="Knock you down" label="Interscope Records"/>
+	
+	<song url="song/monica.mp3" songID="monica" artist="Monica" track="Everything" label="J Records"/>
+	
+	<song url="song/raphael.mp3" songID="raphaelsaadiq" artist="Raphael Saadiq" track="Love" label="Columia Records"/>
+	
+	<song url="song/ewf.mp3" songID="ewf" artist="Earth Wind and Fire" track="September" label="Warner Bros."/>
+	
+	<song url="song/trey.mp3" songID="treysongz" artist="Trey Songz" track="Say Aah" label="Atlantic Records"/>
+	
+</songs>
